@@ -1,8 +1,8 @@
 # lab2-grpc-poll
 This is the GRPC lab2 for CMPE273
 
-How to Run:
-1.) Login to EC2 Instance
+# How to Run:
+# 1.) Login to EC2 Instance
 2.) $ ssh sjsu
 3.) $ cd protobuf/java/grpc-java-v1
 4.) $ ./gradlew install
